@@ -1,0 +1,5 @@
+{
+  "basic-template": "Proyecto React con estructura mínima",
+  "advanced-template": "Estructura completa con Context, Hooks y Utils",
+  "dashboard-template": "Plantilla para panel administrativo con rutas"
+}
